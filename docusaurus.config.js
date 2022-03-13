@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "还没想好名字",
+  title: "not sure",
   tagline: "Dinosaurs are cool",
-  url: "lod61/lod61.github.io",
+  url: "https://not-sure.github.io",
   customFields: {
     // Put your custom environment here
     // teamEmail: process.env.EMAIL,
